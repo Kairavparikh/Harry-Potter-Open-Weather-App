@@ -1,0 +1,1 @@
+Using an open weather API, the 5-day weather forecast will be displayed at your current location. It can also display three-hour increments per day. This app will display a brief description of the weather as well as the maximum and minimum temperature for the day. This app will also display the current address, latitude, and longitude of the user.
